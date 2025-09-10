@@ -8,3 +8,5 @@ assets
 allure-report
 __pycache__
 .pytest_cache
+report.html
+reports/
